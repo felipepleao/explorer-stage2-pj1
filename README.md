@@ -12,5 +12,4 @@ Projeto foi desenvolvido para o curso de formação da Rocketseat Explorer da tu
 
 - HTML
 - CSS
-- Git e Github
 
