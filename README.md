@@ -4,7 +4,7 @@
 
 > Explorer
 
-Projeto foi desenvolvido para o curso de formação da Rocketseat Explorer da turma 6.0, este projeto simples introduziu alguns conceitos básicos de HTML e CSS para a criação de uma página.
+Projeto foi desenvolvido para o curso de formação da Rocketseat Explorer da turma 6.0, este projeto simples introduziu alguns conceitos básicos de HTML e CSS para a criação de uma página web.
 
 🔗[Clique aqui para acessar](https://felipepleao.github.io/explorer-pj01/)
 
