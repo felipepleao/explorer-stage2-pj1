@@ -1,6 +1,6 @@
 # Explorer projeto - Stage 02 Introdução ao HTML e CSS
 
-![preview](./.github/preview.png)
+![preview](./.images/preview.png)
 
 > Explorer
 
