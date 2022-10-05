@@ -1,0 +1,77 @@
+:root {
+  --orange:#FF9900;
+  --grey: #7D7987;
+  --font-inter: 'Inter', sans-serif;
+  --font-open-sans: 'Open Sans', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;  
+}
+
+body {
+  font-family: var(--font-open-sans);
+  text-align: center;
+}
+
+.banner {
+  width: 592px;
+  margin: 0 auto 72px;  
+}
+
+.infos {
+  width: 592px;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: var(--font-inter);
+  font-size: 49px;
+  font-weight: normal;
+}
+
+.text {
+  margin: 32px auto 72px;
+}
+
+.texts {
+  font-size: 14px;
+  line-height: 28px;
+  color: var(--grey);
+}
+
+.text p + p {
+  margin-top: 35px;
+}
+
+span, a {
+  color: var(--orange);
+}
+
+.weight {  
+  font-weight: bold;
+}
+
+.line {
+  margin: 0 auto 8px;
+  width: 568px;
+  height: 0;
+  border: 1px solid #ECEFF2;
+}
+
+a {
+  text-decoration: 0;
+  font-size: 14px;
+}
+
+footer a + a {
+  margin-left: 30px;
+}
+
+.balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
