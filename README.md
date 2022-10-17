@@ -1,4 +1,4 @@
-# Explorer projeto - Stage 02 Introdução ao HTML e CSS
+# Explorer Stage 02 | Projeto 01 -  Introdução ao HTML e CSS
 
 ![preview](images/preview.png)
 
